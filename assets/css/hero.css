@@ -1,9 +1,10 @@
 .hero{
-    background-image: url('../images/hero-center.png');
+    background-image: url('./logo.png');
     background-size: auto 40rem;
     background-repeat:no-repeat ;
-    background-position: bottom center;
+    background-position: center right 30%;
     background-color: var(--hero-background);
+    
 }
 .hero .box{
     padding:4rem 2rem 28rem 2rem;
@@ -27,8 +28,8 @@
 
 @media(width>900px){
     .hero{
-        background-image: url('../images/hero.png');
-        background-size: auto;
+        background-image: url('./logo.png');
+        background-size: 500px;
     }
     .hero .box{
         padding: 15rem 2rem;

@@ -3,9 +3,9 @@
 :root{
     --background: #fff;
     --foreground: #ebf4ff;
-    --thirdground:#ffc600;
-    --primary: #131923;
-    --secundary: #0055b8;
+    --thirdground:#227e16;
+    --primary: hsl(218, 30%, 11%);
+    --secundary: #227e16;
     --secundary-foreground: #fff;
     --hero-background:#f3f3f3;
 }

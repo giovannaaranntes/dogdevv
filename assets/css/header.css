@@ -13,7 +13,7 @@ header .banner{
     background-color: var(--thirdground);
     text-align: center;
     padding: 1rem 2rem;
-    color: var(--primary);
+    color: white;
 }
 header .banner:hover{
     opacity: 0.8;

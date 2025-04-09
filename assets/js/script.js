@@ -18,10 +18,10 @@ menuOpener.addEventListener('click', ()=>{
 
 
 //testemonials
-let testemonials =[{quote:'"Mais do que nunca, os animais são tratados como membros da família"', origin:'cbs.svg' },
-    {quote:'"DogDev é um serviço de entrega direto ao consumidor, preparado na hora com ingredientes 100% reais. Ingredientes que humanos reconheceriam"', origin:'forbes.svg' }, 
-    {quote:'"DogDev usa ingredientes simples e limpos em seus produtos"', origin:'fox.svg' }, 
-    {quote:'"Vejo você DogDev como um verdadeiro herói"', origin:'sharktank.svg' }
+let testemonials =[{quote:'"Mais do que nunca, as plantas ficam mais decorativas"', origin:'cbs.svg' },
+    {quote:'"Jardim Virtual é um serviço de entrega direto ao consumidor, preparado na hora com suplementos 100% reais."', origin:'forbes.svg' }, 
+    {quote:'"Jardim Virtual usa terras organicas em seus produtos"', origin:'fox.svg' }, 
+    {quote:'"Vejo você Jardim Virtual como uma fonte de natureza"', origin:'sharktank.svg' }
 ];
 let testemonialQuote = document.querySelector('.testemonials .quote')
 let testemonialIcon = document.querySelector('.testemonials .icons')
